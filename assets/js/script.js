@@ -337,3 +337,4 @@ function showResult(winner) {
         document.querySelector('#blackjack-result').style.color = messageColor;
     }
 }
+
